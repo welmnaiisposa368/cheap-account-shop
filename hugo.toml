@@ -1,11 +1,10 @@
 baseURL = 'https://welmnaiisposa368.github.io/cheap-account-shop/'
+languageCode = 'en-us'
+title = 'My Cheap Account Shop'
 theme = 'hugo-cards'
 
-# 添加以下配置
 [params]
-  # 确保静态资源使用相对路径
   assetsPath = '/cheap-account-shop/'
 
-# 如果是主题特定配置，可能需要这样
 [outputs]
   home = ['HTML', 'CSS', 'JS']
