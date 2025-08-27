@@ -1,10 +1,4 @@
-baseURL = 'https://welmnaiisposa368.github.io/cheap-account-shop/'
-languageCode = 'en-us'
-title = 'My Cheap Account Shop'
-theme = 'hugo-cards'
-
-[params]
-  assetsPath = '/cheap-account-shop/'
-
-[outputs]
-  home = ['HTML', 'CSS', 'JS']
+theme = "hugo-fresh" 
+baseURL = "https://example.org/" 
+languageCode = "en-us" 
+title = "My Cheap Account Shop" 
