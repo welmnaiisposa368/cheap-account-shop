@@ -1,0 +1,4 @@
+theme = "vanilla-bootstrap-hugo-theme" 
+baseURL = "https://example.org/" 
+languageCode = "en-us" 
+title = "My Cheap Account Shop" 
